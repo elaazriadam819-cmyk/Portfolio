@@ -636,10 +636,6 @@ textarea{
   .section-title{
     font-size:1.7rem;
   }
-}
-  -webkit-font-smoothing:antialiased;
-}
-
 img{
   display:block;
   max-width:100%;
